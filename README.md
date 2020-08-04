@@ -1,1 +1,4 @@
-# initial-solution-calculating-bandwidth
+# Initial Solution Calculating Bandwidth
+
+## Python and Jupyter
+## DataBase of Matrix: SuiteSpare
